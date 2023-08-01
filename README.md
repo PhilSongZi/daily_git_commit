@@ -1,6 +1,7 @@
-# daily_algorithms_for_offer
-两个小目标：
-1.搞定论文顺利毕业！
-2.offer&offer&offer！
+# daily_git_commit
+简简单单的个人github提交记录，重在提醒自己记得每天都要写点什么提交上来。
 
 ## Daily
+1.面渣系列的笔记（导图）。
+2.一些算法题和笔记。
+3.杂项。
