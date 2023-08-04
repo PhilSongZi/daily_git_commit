@@ -32,6 +32,14 @@
 ### 1.从尾到头打印链表
     题目描述：
         输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
+    链表节点定义如下：
+    ```struct ListNode {
+        int val;
+        struct ListNode *next;
+        ListNode(int x) :
+              val(x), next(NULL) {
+        }
+    };```
 ### 2.链表中倒数第k个结点
     题目描述：
         输入一个链表，输出该链表中倒数第k个结点。
